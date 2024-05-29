@@ -30,16 +30,16 @@
 1. Click on Setup Panda.exe
 2. Follow the procedure as usual.
 3. In the ditectory selection select the exact directory where you usually save your bin files.
-![](Screenshot_2.png)
-4. When select your directory the wizard automatically create a folder named **Panda**. Just remove the folder from the path.
-![](Screenshot_5.png)
-5. Follow rest of the procedure as usual.
+![](Photos/Screenshot_2.png)
+5. When select your directory the wizard automatically create a folder named **Panda**. Just remove the folder from the path.
+![](Photos/Screenshot_5.png)
+6. Follow rest of the procedure as usual.
 
 ### After Installation
 
 1. Open Panda from desktop shortcut or start menu.
 2. A Windows Security Alert dialog from the Windows Defender Firewall will pop up.
-![](Screenshot_31.png)
+![](Photos/Screenshot_31.png)
 3. Allow Panda to communicate through the firewall on a public network.
 4. You are good to go.
 
