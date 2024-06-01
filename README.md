@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="Photos/cropped_image.png" alt="Panda Logo" height="150dp">
+</p>
+
+<h1 align="center">Panda</h1>
+
+---
+
+## Features
+
+
 ### General Features of Panda
 
 1. TFTP server for file transfer
