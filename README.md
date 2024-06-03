@@ -44,11 +44,11 @@
    
 ![](Photos/Screenshot_2.png)
 
-5. When select your directory the wizard automatically create a folder named **Panda**. Just remove the folder from the path.
+4. When select your directory the wizard automatically create a folder named **Panda**. Just remove the folder from the path.
    
 ![](Photos/Screenshot_5.png)
 
-7. Follow rest of the procedure as usual.
+5. Follow rest of the procedure as usual.
 
 ### After Installation
 
@@ -57,6 +57,6 @@
    
 ![](Photos/Screenshot_31.png)
 
-4. Allow Panda to communicate through the firewall on a public network.
-5. You are good to go.
+3. Allow Panda to communicate through the firewall on a public network.
+4. You are good to go.
 
