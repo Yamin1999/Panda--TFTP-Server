@@ -5,7 +5,9 @@
 <h1 align="center">Panda</h1>
 
 ---
+![](Screenshot1_2.png)
 
+---
 ## Features
 
 
